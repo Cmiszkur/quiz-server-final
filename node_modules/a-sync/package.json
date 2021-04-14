@@ -1,0 +1,22 @@
+{
+  "name": "a-sync",
+  "version": "0.0.0",
+  "description": "Make sync functions a?sync",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fritx/a-sync.git"
+  },
+  "keywords": [
+    "sync",
+    "async",
+    "nodeify"
+  ],
+  "license": "MIT"
+}
